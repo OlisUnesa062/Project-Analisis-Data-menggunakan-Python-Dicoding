@@ -1,12 +1,18 @@
 # Nur Cholis Majid Project Analisis Data by Python
 
+## Setup Environment
+
+```
+pip install numpy pandas matplotlib seaborn
+```
+
 ## Dashboard Proyek
 
 Anda dapat mengakses dashboard proyek [di sini](http://localhost:8501).
 
-![Screenshot Dashboard 1]("Screenshot1.png")
-![Screenshot Dashboard 2]("Screenshot2.png")
-![Screenshot Dashboard 3]("Screenshot3.png")
+![Screenshot Dashboard 1](Screenshot1.png)
+![Screenshot Dashboard 2](Screenshot2.png)
+![Screenshot Dashboard 3](Screenshot3.png)
 
 ## Metode Analisis
 
