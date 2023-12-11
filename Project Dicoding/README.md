@@ -8,7 +8,7 @@ pip install numpy pandas matplotlib seaborn
 
 ## Dashboard Proyek
 
-Anda dapat mengakses dashboard proyek [di sini](http://localhost:8501).
+Anda dapat mengakses dashboard proyek [di sini](https://github.com/OlisUnesa062/Project-Analisis-Data-menggunakan-Python-Dicoding/raw/main/Project%20Dicoding/dashboard/dashboard.py).
 
 ![Screenshot Dashboard 1](Screenshot1.png)
 ![Screenshot Dashboard 2](Screenshot2.png)
