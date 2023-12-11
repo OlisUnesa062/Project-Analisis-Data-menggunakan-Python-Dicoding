@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 @st.cache_data
 def load_data():
     # Ganti 'nama_file.csv' dengan nama file dataset Anda
-    df = pd.read_csv('C:\\Users\\Olis\\OneDrive\\Desktop\\Project Dicoding\\dashboard\\bike_sharing_df.csv')
+    df = pd.read_csv('bike_sharing_df.csv')
     return df
 
 df = load_data()
